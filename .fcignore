@@ -1,0 +1,5 @@
+# 忽略 Python 缓存和编译产物
+__pycache__/
+
+# 忽略 Git 目录
+.git/
